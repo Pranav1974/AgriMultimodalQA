@@ -1,4 +1,4 @@
-# 🌾 FINAL PROJECT TITLE 
+# 🌾 RESEARCH PROJECT TITLE 
 
 ## **“Multilingual Weather-Aware Agricultural Question Answering System using Image-Text Fusion and Lightweight Knowledge Graph”**
 
@@ -98,19 +98,3 @@ To prove systematic improvement step-by-step:
 
 ---
 
-# 🎓 HOW TO EXPLAIN IN VIVA
-
-> *“Our system integrates multilingual NLP, weather-aware reasoning, image-based disease validation, and structured knowledge graph retrieval to improve agricultural question answering accuracy.”*
-
----
-
-# 📅 REALISTIC 10–12 DAY PLAN
-
-* **Day 1–2:** Dataset download + environment setup
-* **Day 3–4:** NLP training (XLM-R)
-* **Day 5:** Ambiguity logic implementation
-* **Day 6–7:** Image model (EfficientNet integration)
-* **Day 8:** Weather API integration
-* **Day 9:** Knowledge graph construction
-* **Day 10:** Fusion layer + evaluation metrics
-* **Day 11–12:** Paper writing and formatting
