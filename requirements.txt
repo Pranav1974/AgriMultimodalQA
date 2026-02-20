@@ -1,0 +1,62 @@
+# ============================================================
+# AgriMultimodalQA - Requirements
+# ============================================================
+
+# --- Core ML/DL ---
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.35.0
+datasets>=2.14.0
+accelerate>=0.24.0
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+
+# --- NLP ---
+langdetect>=1.0.9
+lingua-language-detector>=2.0.2
+spacy>=3.6.0
+nltk>=3.8.1
+indic-nlp-library>=0.92
+
+# --- Image Processing ---
+Pillow>=10.0.0
+opencv-python>=4.8.0
+timm>=0.9.7
+efficientnet-pytorch>=0.7.1
+
+# --- Knowledge Graph ---
+networkx>=3.1
+pyvis>=0.3.2
+# neo4j>=5.14.0  # Uncomment if using Neo4j
+
+# --- Weather ---
+requests>=2.31.0
+pandas>=2.1.0
+numpy>=1.24.0
+
+# --- Retrieval / RAG ---
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+rank-bm25>=0.2.2
+
+# --- API Backend ---
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+pydantic>=2.4.0
+
+# --- Frontend ---
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# --- Utilities ---
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+loguru>=0.7.2
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Data ---
+kaggle>=1.5.16
+gdown>=4.7.1
